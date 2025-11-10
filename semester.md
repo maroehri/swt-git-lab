@@ -6,11 +6,11 @@
 
 ### Software-Technik
 
-- Einführung
-- Vorgehensmodelle
+- Einführung in die Softwaretechnik
+- Überblick Vorgehensmodelle
 - Agile Softwareentwicklung
 - Requirements Engineering
-- UML
+- Modellbasierte Softwareentwicklung mit UML
 - Testing
 - Git Versionskontrolle
 
