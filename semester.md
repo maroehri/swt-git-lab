@@ -11,7 +11,7 @@
 - Agile Softwareentwicklung
 - Requirements Engineering
 - Modellbasierte Softwareentwicklung mit UML
-- Testing
+- Qualitätssicherung
 - Git Versionskontrolle
 
 ### Signale und Systeme
