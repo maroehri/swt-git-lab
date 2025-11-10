@@ -10,6 +10,9 @@
 - Vorgehensmodelle
 - Agile Softwareentwicklung
 - Requirements Engineering
+- UML
+- Testing
+- Git Versionskontrolle
 
 ### Signale und Systeme
 
