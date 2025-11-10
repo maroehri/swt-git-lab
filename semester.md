@@ -6,12 +6,12 @@
 
 ### Software-Technik
 
-- Einführung
-- Vorgehensmodelle
+- Allgemeine Einführung
+- Übersicht Vorgehensmodelle
 - Agile Softwareentwicklung
 - Requirements Engineering
-- UML
-- Testing
+- Einführung in UML
+- Qualitätssicherung
 - Git Versionskontrolle
 
 ### Signale und Systeme
